@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Jia Linzhao"
+title                    : "Linzhao Jia"
 title_separator          : "-"
 name                     : &name "Linzhao Jia"
 description              : &description "Cs PhD Student"
