@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "EPIC: Error Pattern Informed Correction for Classroom ASR with Limited Labeled Data"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2025-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/EPIC_Error_Pattern_Informed_Correction_for_Classroom_ASR_with_Limited_Labeled_Data.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
